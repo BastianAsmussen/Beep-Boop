@@ -1,2 +1,2 @@
 # Beep-Boop
-An esoteric programming language made by @consoleBeep &amp; @BastianAsmussen
+An esoteric programming language made by a couple of programming students.
